@@ -1,0 +1,6 @@
+file '01.jpg'
+ duration 1
+file 'images (2).jpeg'
+ duration 1
+file 'images (1).jpeg'
+ duration 1

@@ -56,4 +56,4 @@ def gallery():
     reels = os.listdir("static/rells")
     return render_template("gallery.html", reels = reels)
 
-app.run(debug=True)
+app.run(debug=True, port=8000)
